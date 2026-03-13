@@ -1,19 +1,18 @@
-Latihan pembelajaran mesin:
+# ML Preprocessing & Python Core
 
-Data dan Preprocessing:
+A collection of notebooks and scripts documenting my journey through the world of Data Science and Python development.
 
-00_Memulai_Olah_Data
+## Tech Stack
+- **Languages:** Python 3.x
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Feature-engine
 
-01-Memuat dan Menelaah Data
+## What's Inside?
 
-02-Visualisasi Data
+### Machine Learning Lab
+- **00-04:** Data wrangling, cleaning, and feature selection.
+- **10-13:** Advanced encoding techniques and data transformations.
+- **22:** Final preprocessing workflows.
 
-03-Seleksi Fitur
-
-04-Data Cleaning
-
-10-Categorical Encoding
-
-11-OneHotEncoding
-
-12-Pseudo Labelling
+### Python Mastery
+- **Python 1-3:** From basic syntax to complex data structures.
+- **Python 4-5:** Mastering modularity and Object-Oriented Programming (OOP).
